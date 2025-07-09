@@ -10,7 +10,7 @@ How Do I Sign Into My VidgoTV Account Easily?
    :alt: VidgoTV Sign In Account
    :width: 400px
    :align: center
-   :target: https://acorntvaccount.com
+   :target: https://vidgotvaccount.net
 
 With its extensive lineup of sports, entertainment, and news channels, VidgoTV has quickly become a dominant force in the live TV streaming industry.  If you want to watch VidgoTV video without any problems, whether you're a first-time user or you've been away for a while, you'll need to know how to sign in.  You can easily ditch cable with VidgoTV thanks to their adaptable plans, cross-device connectivity, and contract-free service.
 
